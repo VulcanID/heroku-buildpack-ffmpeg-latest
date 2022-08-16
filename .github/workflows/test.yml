@@ -1,4 +1,4 @@
-name: Test
+name: Gravity Network
 on:
   push:
   schedule:
